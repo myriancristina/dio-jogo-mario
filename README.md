@@ -1,4 +1,4 @@
-# dio-jogo-mario
+# Dio - Jogo Mário
 
 
 Refazendo o jogo com comando de voz utilizando a API nativa Speech Recognition e aprenda como estruturar um projeto de forma profissional.
